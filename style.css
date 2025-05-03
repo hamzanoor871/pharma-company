@@ -82,3 +82,7 @@
   border: 2px solid #ddd;
   padding: 4px;
 }
+.d-prize{
+  text-decoration: line-through;
+  color: rgb(178, 164, 164); 
+}
